@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Welcome to Shoaib's Digital Universe! 
+# 🚀 Welcome to Shoaib's Tech Universe! 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Architect;Open+Source+Enthusiast;Distributed+Systems+Expert" alt="Typing SVG" />
 
